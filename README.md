@@ -1,6 +1,6 @@
-# Buscador de dados de usuário do GitHub
+# Buscador de Dados do Usuário pela API do GitHub
 
-Um simples visualizador de perfis do GitHub construído com HTML, CSS e JavaScript.
+Um visualizador de perfis do GitHub construído com HTML, CSS e JavaScript.
 
 ## 📖 Sobre
 
