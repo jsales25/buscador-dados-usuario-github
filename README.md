@@ -1,4 +1,4 @@
-# Visualizador de Perfil do GitHub
+# Buscador de dados de usuário do GitHub
 
 Um simples visualizador de perfis do GitHub construído com HTML, CSS e JavaScript.
 
