@@ -1,4 +1,4 @@
-# Buscador de dados de usuário do GitHub
+# Visualizador de Perfil do GitHub
 
 Um simples visualizador de perfis do GitHub construído com HTML, CSS e JavaScript.
 
@@ -29,7 +29,7 @@ Esta aplicação permite que você insira um nome de usuário do GitHub e veja a
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
-    cd buscador-dados-usuario-github
+    cd visualizador-perfil-github
     ```
 3.  **Abra no navegador:**
     Abra o arquivo `index.html` diretamente no seu navegador de preferência para usar a aplicação.
