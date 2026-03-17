@@ -16,7 +16,7 @@ Esta aplicação permite que você insira um nome de usuário do GitHub e veja a
 
 ### Screenshot
 
-![Design do projeto](./src/design/projeto-api-github.png)
+![Design do projeto](./src/design/mobile-design.png)
 
 ### Links
 
