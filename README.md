@@ -14,6 +14,15 @@ Esta aplicação permite que você insira um nome de usuário do GitHub e veja a
 -   **Estado de Carregamento:** Fornece feedback visual enquanto os dados estão sendo buscados na API.
 -   **Design Responsivo:** Adaptável a diferentes tamanhos de tela.
 
+### Screenshot
+
+![Design do projeto](./src/design/projeto-api-github.png)
+
+### Links
+
+- Solução no Repositório: [Link para o repositório](https://github.com/jsales25/buscador-dados-usuario-github.git)
+- Live Site: [Link para o site](https://jsales25.github.io/buscador-dados-usuario-github/)
+
 ## 💻 Tecnologias Utilizadas
 
 -   HTML5
